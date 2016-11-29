@@ -1,2 +1,2 @@
 # gitlearn
-git learn
+this is a gitlearn Project
